@@ -1,0 +1,5 @@
+This Fortran program is my final project for PHY 286, an undergraduate first course in computational physics, as taught by Dr. Paul DeVries at Miami of Ohio. I took this course in Spring 1995. This course, and this exact final project, is when I fell in love with programming.The project is presented here unmodified - it is the exact file I turned in for my grade in that course.
+
+The program simulates the orbits of two hypothetical asteroids orbiting the Sun and influenced by the gravity of both the Sun and Jupiter. The idea is to compare the behavior of an asteroid whose orbital period is a resonance of Jupiter's, with an asteroid whose orbital period is not. The hypothesis is that the asteroid in a non-resonant orbit will have a slightly chaotic orbit, while the asteroid with a resonant orbit will tend to fall out of certain orbital 'bands' because of Jupiter's gravity. 
+
+The Fourth Order Runge Kutta method is used, which I vaguely recall is a method to computationaly approximate solutions to a differential equation.
